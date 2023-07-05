@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DTreshy
 - 🏠 Based in Gdynia, Poland
-- 👨‍💻 I’m currently working as Junior Golang developer in Comarch
+- 👨‍💻 I’m currently looking for a job
 - 📫 Reach me here -> szczukowski.damian@gmail.com
 - 🏢 Check me out on LinkedIn -> https://www.linkedin.com/in/damian-szczukowski/
