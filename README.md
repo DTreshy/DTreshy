@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @DTreshy
 - 🏠 Based in Gdynia, Poland
 - 👨‍💻 I’m currently looking for a job
 - 📫 Reach me here -> szczukowski.damian@gmail.com
